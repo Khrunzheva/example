@@ -17,7 +17,7 @@
 		 	?>
 		</div>
 		<div class="center">
-			<form method="post" action="norm1.php">
+			<form method="post">
 		 	<?php
 			$keyk = array_keys($_POST);
 			$arr[key] = value;
